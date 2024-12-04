@@ -5,24 +5,24 @@ import { BsFillPatchCheckFill } from "react-icons/bs";
 const experienceData = [
   {
     category: "Frontend Development",
-    skills: [
-      { name: "HTML", level: "Intermediate" },
-      { name: "CSS", level: "Intermediate" },
-      { name: "JavaScript", level: "Intermediate" },
-      { name: "Bootstrap", level: "Intermediate" },
-      { name: "React JS", level: "Beginner" },
-      { name: "Tailwind", level: "Beginner" },
-    ],
+    // skills: [
+    //   { name: "HTML", level: "Intermediate" },
+    //   { name: "CSS", level: "Intermediate" },
+    //   { name: "JavaScript", level: "Intermediate" },
+    //   { name: "Bootstrap", level: "Intermediate" },
+    //   { name: "React JS", level: "Beginner" },
+    //   { name: "Tailwind", level: "Beginner" },
+    // ],
   },
   {
     category: "Backend Development",
-    skills: [
-      { name: "Node JS", level: "Intermediate" },
-      { name: "MySQL", level: "Beginner" },
-      { name: "Python", level: "Intermediate" },
-      { name: "C++", level: "Beginner" },
-      { name: "MongoDB", level: "Beginner" },
-    ],
+    // skills: [
+    //   { name: "Node JS", level: "Intermediate" },
+    //   { name: "MySQL", level: "Beginner" },
+    //   { name: "Python", level: "Intermediate" },
+    //   { name: "C++", level: "Beginner" },
+    //   { name: "MongoDB", level: "Beginner" },
+    // ],
   },
 ];
 
